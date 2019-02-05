@@ -1,4 +1,4 @@
-myName = "clint";
+const myName = "clint";
 
 function logName() {
     console.log(myName)
@@ -6,7 +6,11 @@ function logName() {
   }
   
   logName();
-  
+
 console.log(myName);
 
+let random = Math.floor(Math.random()* 10) + 1
+
+
+console.log(random)
 
