@@ -1,12 +1,3 @@
-myName = "clint";
-
-function logName() {
-    console.log(myName)
-    return(myName);
-  }
-  
-  logName();
-  
-console.log(myName);
-
+const click = document.querySelector("h1")
+const message = document.querySelector()
 
